@@ -27,4 +27,4 @@ The model predicts house prices based on the following features:
 
 ## Output
 
-Prediction on test data set with a rmse loss of 35006.934.
+Prediction on test data set with a rmse loss of 35006.934 dollars.
